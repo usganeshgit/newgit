@@ -1,2 +1,2 @@
-Hi this is a git tutuorial
-
+Hi This is a git tutuorial
+Learn Git
