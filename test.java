@@ -1,0 +1,6 @@
+package newgit;
+public class test{
+    public static void main(String a[]){
+
+    }
+}
